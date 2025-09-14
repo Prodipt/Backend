@@ -1,0 +1,15 @@
+Express JS - Framework
+a fix flow to follow in expressJs
+ExpressJs is a npm Package
+
+Reacts only provides tools thst we can use as per our need
+ExpressJS Manages everything  from receiving the request and giving the response
+
+Setting up a basic ExpressJS application
+
+jb bhi server req accept krta h waha se route ke beech pahuchne tak agar aap us req ko beech me rokte ho aur kch perform krte ho , to ye element middleware kehlata h
+
+Kisi bhi route ko chalane se pehle kch perform krna chahe toh waha middleware use krste h
+
+
+Server(Accept hui) --> middleware --> routehandle

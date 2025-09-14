@@ -1,0 +1,20 @@
+Authentication and Authorization
+
+user ko profile dene se pehle ye check karna hota hai ke user hai kaun - authentication
+
+sumit is not authorized to perform some tasks which are only allowed to be executed by the admin
+
+server har bar bhul jata h aap kon ho
+isliye hrr baar aapse pchega aap kon ho
+
+cookies and session CONCEPT
+
+sabse pehle humein kuchh cheezein seekhni hai alag alag 
+i) cookie kaise set krte h
+ii) bcrypt kaise use krte h for password encryption and decryption
+iii) jwt kya hao and jwt mein data kaise store karein and bahar nikaalein
+
+
+$2b$10$hk7pKDiduI8kdc05p8PUjufRzXA8uveNOJCGtbeo5io8L7PGEPP3O
+
+Polollolololo

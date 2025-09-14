@@ -1,0 +1,22 @@
+{
+  "name": "js-revise",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node ./scriptNode.js",
+    "Taau": "echo \"this is good\" ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradipt Prasoon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "accessibility": "^3.0.9",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.18.1",
+    "one-liner-joke": "^1.2.2"
+  }
+}

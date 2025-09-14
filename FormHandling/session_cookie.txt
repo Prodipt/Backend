@@ -1,0 +1,4 @@
+Session and Cookie : hum log kuchh bhi data frontend par browser par rakh sakte h and jab bhi aap kuchh bhi request backend par karoge wo frontend par saved data automatically backend par chala jayega
+
+blob : tumne jo bheja tha plain txt paar server ko mila blob which is not directly readable ab is cheej ko handle karna padega ki hum us blob ko waapas se readable kar sake
+
